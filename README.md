@@ -18,6 +18,9 @@ hyperid - for generating ids
 ### Testing
 Tap
 
+## Test Get Path
+curl -H "Authorization: Basic am9uOnNub3c=" http://localhost:3000/post/j-tAwOP-ShaWj8eAjftOVg-1
+
 
 ### Kibana
 
@@ -37,3 +40,4 @@ POST desktop-l2r4gkn-tweets/_search
      }
 }
 ```
+
